@@ -1,0 +1,14 @@
+{
+  "name": "chat-online-ready",
+  "version": "1.0.0",
+  "description": "Ready-to-run Chat app (Express + Socket.IO) with static frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.1"
+  }
+}
